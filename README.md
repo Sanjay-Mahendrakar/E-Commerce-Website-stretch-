@@ -1,2 +1,2 @@
-# AutomatedTellerMachine
-This project is done by only using the core Java concept's. Validation of ATM number and PIN is done, We can View Available Balance, Withdraw Amount, Deposit Amount, View Ministatement.
+# E-Commerce Website(stretch)
+It's an E-commerce website homepage interface built by using HTML and CSS. by the name of (stretch).
